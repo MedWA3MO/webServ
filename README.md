@@ -1,10 +1,10 @@
 # webserv - A Powerful C++ HTTP Server
 ![webserv banner][]
 
-Introduction
+# Introduction
 webserv is a comprehensive HTTP server written in C++. This project aims to provide a robust and highly customizable web server that can handle a wide range of HTTP requests and serve various types of content. Whether you're a web developer, a system administrator, or simply curious about the inner workings of the web, this project is designed to offer a valuable learning experience.
 
-Key Features
+# Key Features
 HTTP 1.1 Compliance: webserv fully implements the HTTP/1.1 protocol, ensuring compatibility with a wide range of clients and compliance with industry standards.
 Modular and Extensible Design: The server's architecture is designed to be modular and extensible, allowing for easy integration of new features and functionality.
 Configurable Server Settings: webserv provides a flexible configuration system, enabling users to customize server behavior, such as port number, document root, and more.
@@ -16,26 +16,26 @@ Logging and Monitoring: The server provides detailed logging capabilities, allow
 Getting Started
 To get started with webserv, please follow these steps:
 
-Clone the repository:   git clone https://github.com/your-username/webserv.git  
+# Clone the repository:   git clone https://github.com/MedWA3MO/webServ.git 
 Navigate to the project directory:   cd webserv  
 Build the project:   make  
 Run the server:   ./webserv [configuration_file]   The optional [configuration_file] argument allows you to specify a custom configuration file. If not provided, the server will use a default configuration.
 Access the server in your web browser:   http://localhost:8080  
 For more detailed information on configuration, usage, and advanced features, please refer to the documentation.
 
-Contributing
+# Contributing
 We welcome contributions from the community! If you'd like to contribute to webserv, please follow these guidelines:
 
-Fork the repository.
+# Fork the repository.
 Create a new branch for your feature or bug fix.
 Implement your changes and ensure they pass all tests.
 Submit a pull request, providing a clear description of your changes and the problem they solve.
 Before submitting a pull request, please make sure to review the contribution guidelines for more information.
 
-License
+# License
 webserv is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
 
-Contact
+# Contact
 If you have any questions, suggestions, or feedback, feel free to reach out to us
 
 
